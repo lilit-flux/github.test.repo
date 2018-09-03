@@ -1,0 +1,41 @@
+[33mcommit f1d9768734b9e81a2ae433744953a949ad0310f9[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;33mtag: v3.0-lw[m[33m)[m
+Author: Lilit Hayrapetyan <lilit.hayrapetyan@fluxtechs.com>
+Date:   Mon Sep 3 10:48:16 2018 +0400
+
+    commit changes
+
+[33mcommit ec471a9e8e437428b925b5e07f3581d9c4a1fc7b[m[33m ([m[1;33mtag: v2.0[m[33m, [m[1;33mtag: v1.0[m[33m)[m
+Author: Lilit Hayrapetyan <lilit.hayrapetyan@fluxtechs.com>
+Date:   Wed Aug 29 10:35:42 2018 +0400
+
+    experimenting with git reset HEAD
+
+[33mcommit a574bc1be63113ab3e387f932d422361c15c87ca[m
+Author: Lilit Hayrapetyan <lilit.hayrapetyan@fluxtechs.com>
+Date:   Wed Aug 29 10:22:54 2018 +0400
+
+    commit initial file
+
+[33mcommit 43c3bf41d29ace34177709c40467a0f148edb8b0[m
+Author: Lilit Hayrapetyan <lilit.hayrapetyan@fluxtechs.com>
+Date:   Wed Aug 29 09:58:56 2018 +0400
+
+    a
+
+[33mcommit 39ca7173ac1f5cbc56d7ffafa906da708b55dae6[m
+Author: Lilit Hayrapetyan <lilit.hayrapetyan@fluxtechs.com>
+Date:   Tue Aug 28 09:49:21 2018 +0400
+
+    third commit
+
+[33mcommit 00ed2f43ffee9fa6f68289c35ef071aaad988dfe[m
+Author: Lilit Hayrapetyan <lilit.hayrapetyan@fluxtechs.com>
+Date:   Tue Aug 28 09:40:53 2018 +0400
+
+    second message
+
+[33mcommit 8ed298eee277c6cd6dd3c1035de6c7c7be6874f5[m
+Author: Lilit Hayrapetyan <lilit.hayrapetyan@fluxtechs.com>
+Date:   Tue Aug 28 09:21:00 2018 +0400
+
+    Initial project version
